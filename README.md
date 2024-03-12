@@ -1,1 +1,2 @@
 # How-To-Build-a-Robot
+This is a repository that details all aspects of robot design, including what aspects of an FRC game to master, which ones to not focus on, and how to strategize and design based on constraints. 
