@@ -1,0 +1,1 @@
+A ROBOT is ENGAGED when it is [DOCKED] and CHARGE STATION is LEVEL

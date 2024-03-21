@@ -19,7 +19,7 @@ How do we acquire game pieces? Well we know that they can come from the floor, a
 ## Analyzing the charge station
 5.4 the charge station is the other primary objective. The charge station is an elevated platform that has 2 sides with sliding slopes. Scoring happens on these conditions. Note how I am not considering the amount of points for scoring on any objective yet. That will be considered after we understand how each objective works.
 - A robot (max) is on the platform and level at the end of auto. More than robot could **engage** the charge station during auto, but only up to 1 robot is awarded points for it.
-- Points for each robot **docked** and or **engaged** at the end of teleop. (up to all robots)
+- Points for each robot **[docked]** and or **[engaged]** at the end of teleop. (up to all robots)
 
 Ideally we want 1 robot at the end of auto, only one team needs to do this but it also might be difficult since going up a slidy ramp and leveling the robot can cause odometry to be lost due to wheel slippage and make it hard to reliably do. We will notice that the charging station is **only 96in wide**, meaning that we can only **realistically fit 2 robots on the platform**. There will be scarcity in terms of how many robots can realistically fit on the platform. Something we might consider in our robot design is a smaller size, or a mechanism to climb onto or on another alliance robot over the edge of the station towards the community. **We understand that 3 docked robots will be scarce unless design decisions are taken.** We may choose to consider the amount of points earned by doing both kinds of climbs too much this, or accept it later into the robot design process.
 
