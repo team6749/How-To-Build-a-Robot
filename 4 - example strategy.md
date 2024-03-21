@@ -1,4 +1,5 @@
-this is the point where we will start making design decisions, this is where iteration will happen the most. Especially since there are many valid angles to take when designing a robot. What i like to consider is robots that follow trade-offs of the main scoring objectives at a high level noting the pros and cons. Let's consider some hypothetical robots.
+## Intro
+this is the point where we will start making design decisions, this is where iteration will happen the most. Especially since there are many valid angles to take when designing a robot. What i like to consider is robots that follow trade-offs of the main scoring objectives at a high level noting the pros and cons. **By analyzing the different scoring objectives and their ultimate value to the came, we can analyze what trade offs need to be made when designing.** Let's consider some hypothetical robots.
 
 When calculating point scoring I will use the average point each piece is worth (3.3)
 Also, when picking these numbers, I am using past experience with how "good" robots typically are, top level robots will excel at all things, also considering how many points are available vs scorable can get a good idea of what a typical robot might be able to do. Try to use comparably complex robots when deciding how to pick which way design your robot at a high level.
